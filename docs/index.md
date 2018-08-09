@@ -42,7 +42,7 @@ Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versic
 
 ## L
 
-### [Lemonade](https://lemonade.com)
+### [Lemonade](https://en.m.wikipedia.org/wiki/Lemonade_(insurance))
 #### [Lemonade Inc. @ Github](https://github.com/lemonade-hq)
 
 ## M
