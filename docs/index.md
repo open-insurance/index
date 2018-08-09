@@ -40,6 +40,11 @@ Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versic
 
 ## K
 
+## L
+
+### [Lemonade](https://lemonade.com)
+#### [Lemonade Inc. @ Github](https://github.com/lemonade-hq)
+
 ## M
 
 ## P
