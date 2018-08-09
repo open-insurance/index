@@ -8,7 +8,7 @@ Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versic
 #### [AXA Group @ Github](https://github.com/axa-group)
 #### [AXA Switzerland @ Github](https://github.com/axa-ch)
 
-### [Allianz](https://de.wikipedia.org/wiki/Allianz_SE)
+### [Allianz](https://en.wikipedia.org/wiki/Allianz_SE)
 #### [Allianz Deutschland AG @ Github](https://github.com/allianz-de)
 
 ## B
@@ -28,6 +28,9 @@ Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versic
 ## F
 
 ## G
+
+### [Generali](https://en.wikipedia.org/wiki/Assicurazioni_Generali)
+#### [Generali Italia @ Github](https://github.com/aa-generali-italia)
 
 ## H
 
@@ -51,6 +54,6 @@ Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versic
 
 ## Z
 
-### [Zurich Insurance Group](https://de.wikipedia.org/wiki/Zurich_Insurance_Group)
+### [Zurich Insurance Group](https://en.wikipedia.org/wiki/Zurich_Insurance_Group)
 
 #### [Zürich Versicherungs-Gesellschaft AG @ Github](https://github.com/zurichversicherung)
