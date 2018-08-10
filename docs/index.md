@@ -1,6 +1,3 @@
-# Insurer
-Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versicherung/liste-schweiz)
-
 ## A
 
 ### [AXA](https://en.wikipedia.org/wiki/AXA)
@@ -39,6 +36,9 @@ Index, listing and sorting based on [comparis.ch](https://www.comparis.ch/versic
 ## J
 
 ## K
+
+### [KASKO](https://www.kasko.io)
+#### [KASKO @ Github](https://github.com/kasko)
 
 ## L
 
