@@ -24,6 +24,9 @@
 
 ## F
 
+#### [FRI:DAY](https://www.friday.de)
+#### [FRI:DAY @ Github](https://github.com/FRI-DAY)
+
 ## G
 
 ### [Generali](https://en.wikipedia.org/wiki/Assicurazioni_Generali)
