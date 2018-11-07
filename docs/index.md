@@ -27,6 +27,9 @@
 #### [FRI:DAY](https://www.friday.de)
 #### [FRI:DAY @ Github](https://github.com/FRI-DAY)
 
+#### [Friendsurance](https://en.wikipedia.org/wiki/Peer-to-peer_insurance)
+#### [Friendsurance @ Github](https://github.com/Friendsurance)
+
 ## G
 
 ### [Generali](https://en.wikipedia.org/wiki/Assicurazioni_Generali)
