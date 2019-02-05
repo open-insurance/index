@@ -6,6 +6,8 @@
 #### [AXA Switzerland @ Github](https://github.com/axa-ch)
 
 ### [Allianz](https://en.wikipedia.org/wiki/Allianz_SE)
+
+#### [Allianz @ Github](https://github.com/allianz)
 #### [Allianz Deutschland AG @ Github](https://github.com/allianz-de)
 
 ## B
