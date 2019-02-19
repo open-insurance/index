@@ -39,6 +39,9 @@
 
 ## H
 
+### [Helvetia](https://en.wikipedia.org/wiki/Helvetia_Insurance)
+#### [Helvetia @ Github](https://github.com/helvetia)
+
 ## I
 
 ## J
