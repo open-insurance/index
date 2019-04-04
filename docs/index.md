@@ -70,6 +70,8 @@
 
 ## S
 
+### [Stiftung Auffangeinrichtung BVG](http://www.chaeis.net/en/fzk-vested-benefits-accounts/about-us.html)
+#### [Stiftung Auffangeinrichtung BVG @ Github](https://github.com/stiftung-auffangeinrichtung-bvg)
 ## T
 
 ## U
