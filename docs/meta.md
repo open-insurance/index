@@ -14,6 +14,8 @@ Association for the promotion of open-source insurance software and for the esta
 
 ## F
 
+### [FRIDA - Free Insurance Data Initiative](http://www.freeinsurancedata.com)
+
 ## G
 
 ## H
