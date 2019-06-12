@@ -1,3 +1,7 @@
+---
+title: index
+---
+
 ## A
 
 ### [AXA](https://en.wikipedia.org/wiki/AXA)
