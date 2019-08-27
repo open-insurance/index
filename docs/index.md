@@ -8,6 +8,7 @@ title: index
 
 #### [AXA Group @ Github](https://github.com/axa-group)
 #### [AXA Switzerland @ Github](https://github.com/axa-ch)
+#### [AXA Assistance](https://de.wikipedia.org/wiki/Axa_Assistance) [@ Github](https://github.com/axa-assistance)
 
 ### [Allianz](https://en.wikipedia.org/wiki/Allianz_SE)
 
