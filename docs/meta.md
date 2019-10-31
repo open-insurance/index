@@ -8,33 +8,13 @@ title: meta
 
 Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry
 
-## B
-
-## C
-
-## D
-
-## E
+## B - E
 
 ## F
 
 ### [FRIDA - Free Insurance Data Initiative](http://www.freeinsurancedata.com)
 
-## G
-
-## H
-
-## I
-
-## J
-
-## K
-
-## L
-
-## M
-
-## N
+## G - N
 
 ## O
 
@@ -46,24 +26,4 @@ Vendor neutral umbrella for all activities of open-source collaboration within t
 
 The Open Insurance initiative (OPIN) is a project aiming to drive transformational change in how personal customers interact with financial services.
 
-## P
-
-## Q
-
-## R
-
-## S
-
-## T
-
-## U
-
-## V
-
-## W
-
-## X
-
-## Y
-
-## Z
+## P - Z
