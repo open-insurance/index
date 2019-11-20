@@ -8,13 +8,7 @@ title: meta
 
 Association for the promotion of open-source insurance software and for the establishment of open interface standards in the insurance industry
 
-## B - E
-
-## F
-
-### [FRIDA - Free Insurance Data Initiative](http://www.freeinsurancedata.com)
-
-## G - N
+## B - N
 
 ## O
 
