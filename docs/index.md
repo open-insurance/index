@@ -75,6 +75,10 @@ title: index
 
 ## S
 
+### [sum.cumo GmbH](https://www.sumcumo.com)
+
+#### [sum.cumo GmbH @ Github](https://github.com/sumcumo)
+
 ### [Stiftung Auffangeinrichtung BVG](http://www.chaeis.net/en/fzk-vested-benefits-accounts/about-us.html)
 #### [Stiftung Auffangeinrichtung BVG @ Github](https://github.com/stiftung-auffangeinrichtung-bvg)
 ## T
