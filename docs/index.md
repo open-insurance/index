@@ -19,6 +19,7 @@ title: index
 
 ### [Bâloise](https://en.wikipedia.org/wiki/Baloise)
 #### [Baloise Group @ Github](https://github.com/baloise)
+#### [Baloise Group Incubator @ Github](https://github.com/baloise-incubator)
 
 ## C
 
