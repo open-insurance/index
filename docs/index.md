@@ -23,6 +23,9 @@ title: index
 
 ## C
 
+### [Creadi](https://creadi.ch)
+#### [Creadi @ Github](https://github.com/creadi)
+
 ## D
 
 ### [Die Mobiliar](https://de.wikipedia.org/wiki/Schweizerische_Mobiliar)
@@ -69,6 +72,9 @@ title: index
 ## O
 
 ## P
+
+### [Pax](https://www.pax.ch)
+#### [Pax @ Github](https://github.com/PaxSchweiz)
 
 ## Q
 
